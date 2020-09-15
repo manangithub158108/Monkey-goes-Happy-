@@ -1,2 +1,2 @@
-# Monkey-goes-Happy-
-ma'am use the up arrow key to make the monkey jump.
+# p5.play-boilerplate
+Boiler plate for p5.play
